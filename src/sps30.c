@@ -30,7 +30,7 @@
  */
 
 #include "sps30.h"
-#include "sensirion_arch_config.h"
+#include "sensirion_i2c_hal.h"
 #include "sensirion_common.h"
 #include "sensirion_i2c.h"
 #include "sps_git_version.h"
