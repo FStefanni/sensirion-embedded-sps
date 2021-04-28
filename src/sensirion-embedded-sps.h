@@ -1,2 +1,4 @@
+#include <sensirion-embedded-common.h>
+
 #include "sps_git_version.h"
-#include "sps.h"
+#include "sps30.h"
